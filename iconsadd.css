@@ -1,0 +1,14 @@
+*{margin: 0;
+padding: 0;
+}
+
+.fa-square-twitter {
+    font-size: 70px;
+    color: rgb(5, 157, 246);
+    justify-content: center;
+    padding: 90px;
+}
+.fa-youtube {
+    font-size: 90px;
+    color: red;
+}
